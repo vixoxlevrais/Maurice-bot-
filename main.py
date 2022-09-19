@@ -131,4 +131,4 @@ async def on_raw_reaction_remove(payload):
         await membre.remove_roles(bob_role)
         await membre.send("tu a déjà eu les info tu les re veux re mais bob !")
 
-bot.run("ODk3MDgwMDEzODQ3OTM3MDM1.YWQc3g.zlB_xkIQn7m3MkZi4y39vXceI8w")
+bot.run("your token (https://discord.com/developers/applications)")
